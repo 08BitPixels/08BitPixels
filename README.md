@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @08BitPixels!
-- 👀 I’m interested in coding games and interesting projects in Python and JavaScript.
+- 👀 I’m interested in coding games + interesting projects in Python / PyGame.
